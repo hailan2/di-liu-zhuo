@@ -1,0 +1,390 @@
+#contain{
+	font-family:#6e6e6f;
+	position: relative;
+	width: 100%;
+		}
+.nav{
+	background: rgb(41,41,42);
+	height: 50px;
+}
+.mac{
+	float: left;
+	margin: 10px 50px;
+	color: white;
+}
+.mac a:hover{
+	color: rgb(206,203,212);
+	text-decoration: none;
+}
+.headBackground{
+ position:absolute;
+ top: 50px;
+ left: 0px;
+ width: 100%;
+ z-index: -1;
+}
+.headThreeBar{
+	height: 50px;
+	width: 50%;
+	background: rgb(255,255,255);
+	position: absolute;
+	top:200px;
+	left: 330px;
+	font-size:25px;
+}
+.main1{
+	font-size: 25px;
+	position: absolute;
+	top:700px;
+	left:600px; 
+}
+.main2{
+	position: absolute;
+	top: 750px;
+	left: 130px;
+}
+.main2image{
+	float: left;
+	margin: 40px;
+}
+.main3{
+	position: absolute;
+	top: 900px;
+	left: 130px;
+}
+.main3navFirst{
+	float: left;
+	margin: 40px;
+	font-size: 15px;
+}
+.main3navTwo{
+	float: left;
+	margin: 40px 85px;
+	font-size: 15px;
+	color: rgb(0,136,204);
+}
+.main4{
+	font-size: 20px;
+	position: absolute;
+	top: 1000px;
+	float: left;
+	padding: 20px 600px;
+	border-top:1px solid rgb(222,222,222);
+	border-bottom:1px solid rgb(222,222,222);
+	height: 25px;
+	width: 10%;
+	color:rgb(0,136,204);
+	}
+.main4 a:link{
+	color:rgb(0,136,204);
+	text-decoration:none;
+}
+.main5{
+	position: absolute;
+	top:1100px;
+	left: 580px;
+	font-weight: bold;
+	font-size: 45px; 
+	height: 100px;   
+}
+.main6{
+	position: absolute;
+	top: 1180px;
+}
+.main6Left{
+	float: left;
+	padding: 0px 200px;
+}
+.main6LeftFirst{
+	font-size: 25px;
+	line-height: 50px;
+}
+.main6LeftTwo{
+	line-height: 30px;
+}
+.main6LeftThree{
+	line-height: 40px;
+	color: rgb(0,136,204);
+}
+.main6Right{
+	float: left;
+	padding: 0px 20px;
+}
+.main6RightFirst{
+	font-size: 25px;
+	line-height: 50px;
+}
+.main6RightTwo{
+	line-height: 30px;
+}
+.main6RightThree{
+	line-height: 40px;
+	color: rgb(0,136,204);
+}
+.main7{
+	position: absolute;
+	top: 1550px;
+	border-top: 1px solid rgb(222,222,222);
+}
+.main7LeftFirst{
+	font-weight: bold;
+	font-size: 45px;
+	line-height: 70px;
+}
+.main7LeftTwo{
+	font-size: 25px;
+	line-height: 40px;
+}
+.main7LeftThree {
+	color: rgb(0,136,204);
+	line-height: 50px;
+}
+.main7Left{
+	padding: 0px 50px 0px 300px;
+	float: left;
+	display: block;
+}
+.main7Right{
+	float: right;
+}
+.main8{
+	position: absolute;
+	top: 1850px;
+	border-top:1px solid rgb(222,222,222);
+	border-bottom:1px solid rgb(222,222,222);
+}
+.main8First{
+	padding: 0px 580px;
+}
+.main8Two{
+	line-height: 100px;
+	font-size: 40px;
+	padding: 0px 500px;
+}
+.main8Three{
+	padding: 0px 500px;
+	line-height: 30px; 
+}
+.main8Four a:link{
+	padding: 0px 600px;
+	color: rgb(0,136,204);
+	line-height: 40px;
+}
+.main9{
+	position: absolute;
+	top: 2200px;
+	margin: 0px 50px 0px 140px;
+	background: rgb(245,245,245);
+	height: 300px;
+	width: 80%;
+}
+.main9First{
+	margin: 50px 80px;
+	float: left;
+}
+
+.main9Two{
+	margin: 50px 10px;
+	float: left;
+}
+.main9Three{
+	margin: 50px 30px;
+	float: left;
+}
+.main9Firstli{
+	padding:0px 50px;
+}
+.main9Twoli{
+	padding: 0px 40px;
+	line-height: 40px;
+	font-weight: bold;
+	font-size: 20px;
+}
+.main9Twoli a:hover{
+	padding: 0px 40px;
+	line-height: 40px;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgb(0,136,204);
+}
+
+}
+.main9Threeli{
+	line-height: 30px;
+}
+.main9Fourli{
+	line-height: 60px;
+	padding: 0px 50px;
+	color: rgb(0,136,204);
+}
+.main9Threeliexpect{
+	padding:0px 50px;
+	line-height: 30px;
+}
+.main10{
+	position: absolute;
+	top: 2600px;
+	left: 450px;
+	border-top:1px solid rgb(222,222,222);
+}
+.main10First{
+	font-size: 20px;
+	line-height: 30px;
+	padding: 0px 150px;
+}
+.main10Two{
+	font-size: 45px;
+	line-height: 70px;
+	font-weight: bold;
+}
+.main10Three{
+	line-height: 60px;
+	padding: 0px 20px;
+}
+.main10Four{
+	display: block;
+	width: 60px;
+	height: 30px;
+	background: rgb(22,128,212);
+	line-height: 30px;
+	font-size: 15px;
+	border-radius: 5px;
+	padding: 5px 30px 5px 20px;
+	margin:0px 170px;
+}
+.main10Four a:link{
+	color: white;
+	text-decoration:none;
+}
+.main11{
+	position: absolute;
+	top: 2900px;
+	margin: 0px 50px 0px 100px;
+}
+.main11Left{
+	float: left;
+	background: rgb(245,245,245);
+	padding: 90px 30px;
+}
+.main11LeftFirst{
+	font-size: 50px;
+	line-height: 70px;
+}
+.main11LeftTwo{
+	line-height: 70px;
+}
+.main11LeftThree{
+	line-height: 30px;
+}
+.main11leftThree a:link{
+	color: rgb(0,136,204);
+	text-decoration:none;
+}
+.main11Right {
+	float: right;
+}
+.main12{
+	position: absolute;
+	top:3350px;
+	left: 450px;
+	font-size: 30px;
+}
+.main13{
+	position: absolute;
+	top: 3450px;
+	left: 650px;
+}
+.main14{
+	position: absolute;
+	top: 3550px;
+	padding: 50px 550px 50px 550px;
+	font-size: 20px;
+	border-top: 1px solid rgb(222,222,222); 
+}
+.main15{
+	position: absolute;
+	top: 3650px;
+	left: 550px;
+	line-height: 30px;
+}
+.main15li a:link{
+	margin: 0px auto;
+	color: rgb(0,136,204);
+}
+.footcontain{
+	position: absolute;
+	top: 3900px;
+	background: rgb(245,245,245);
+	width:90%;
+	height: 350px;
+	padding: 0px 50px;
+}
+.footBeginFirst{
+	float: left;
+	padding: 20px 0px;
+	display: block;
+}
+.foot{
+	padding: 0px 100px;
+	font-size: 8px;
+	width: 1300px;
+}
+.footBeginTwo{
+	float: left;
+	padding: 20px 0px;
+	display: block;
+}
+.footAgin{
+	position: absolute;
+	top: 50px;	
+}
+.footFirst{
+	float: left;
+	padding: 10px 100px 10px 0px;
+	line-height: 25px;
+}
+.footTwo{
+	float: left;
+	padding: 10px 80px;
+	line-height: 25px;
+}
+.footThree{
+	float: left;
+	padding: 10px 80px;
+	line-height:25px;
+	}
+.footFour{
+	float: left;
+	padding: 10px 80px;
+	line-height: 25px;
+}
+.footLastAbove{
+	position: absolute;
+	top: 245px;
+	padding: 5px;
+	border-bottom: 1px solid rgb(222,222,222);
+}
+.footLastBotom{
+	position: absolute;
+	top: 280px;
+	width: 1000px;
+}
+.footfont{
+	font-weight: bold;
+}
+.footLastBotomCharracter{
+	float: left;
+	width: 1000px;
+}
+.footImage{
+ 	position: absolute;
+ 	top: 0px;
+	left: 900px;
+}
+.footLastAboveSpecial{
+	color: rgb(0,136,204);
+}
+.footLastBotomCharacterSpecial{
+	padding: 5px;
+}
+
